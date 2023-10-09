@@ -1,7 +1,7 @@
 # MNXB11 fairytale
 
 Once upon a time,
-there was a **ruthless** _hogre_
+there was a **ruthless** _ogre_
 
 ```
 Ogre
